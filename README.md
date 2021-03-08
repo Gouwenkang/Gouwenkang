@@ -1,8 +1,9 @@
 ### Hi there 👋 Kweku
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gouwenkang)](https://github.com/anuraghazra/github-readme-stats)
-
 - 🔭 I’m currently working on [meituan](https://about.meituan.com/en)
 - 🌱 I’m currently learning FE
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gouwenkang)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Gouwenkang/Gouwenkang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
