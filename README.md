@@ -1,5 +1,5 @@
 ### Hi there 👋 Kweku
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gouwenkang?theme=THEME_NAME highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gouwenkang)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on [meituan](https://about.meituan.com/en)
 - 🌱 I’m currently learning FE
